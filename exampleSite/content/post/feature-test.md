@@ -19,11 +19,16 @@ This is a test page for features and front-matter
 
 ## Key features enabled on feature test page
 
-* Cover page
+* Cover image
 * Reading Time
-* Table of Contents
+* Inline HTML
 
-There should be a cover page on this blog post as shown below:
+## Inline HTML using Raw
+
+{{<raw>}}
+    <h2>Test to see what happens with HTML</h2>
+    <img src="images/01.png" border=2 />
+{{</ raw>}}
 
 ## Blockquotes - Lorem Ipsum
 
