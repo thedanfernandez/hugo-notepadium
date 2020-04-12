@@ -315,8 +315,10 @@ acronym {
 
 .note.list .item>a:hover,
 .nav.item:hover {
-  opacity: .5;
-  text-decoration: none;
+  /* opacity: .5;
+  text-decoration: none; */
+  opacity: .75;
+  text-decoration: underline;
 }
 
 .tag:hover,
