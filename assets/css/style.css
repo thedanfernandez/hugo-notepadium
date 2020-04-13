@@ -321,6 +321,8 @@ acronym {
   text-decoration: none;
 }
 
+
+
 .tag:hover,
 .category:hover {
   opacity: .5;
@@ -759,4 +761,11 @@ acronym {
 
 .article.markdown-body .lntable tr>:first-child {
   border-right: 1px dashed #e6e6e6;
+}
+
+.flex-center {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: rows;
 }

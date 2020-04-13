@@ -23,6 +23,17 @@ This is a test page for features and front-matter
 * Reading Time
 * Inline HTML
 
+## Font Awesome
+
+{{<raw>}}
+    <div class="flex-center">
+        <a href="https://twitter.com/danielfe/"><i class="fab fa-twitter fa-2x"></i></a>
+        <a href="https://linkedin.com/in/danfernandez/"><i class="fab fa-linkedin fa-2x"></i></a>
+        <a href="https://github.com/thedanfernandez/"><i class="fab fa-github fa-2x"></i></a>
+        <a href="https://github.com/thedanfernandez/"><i class="fas fa-rss-square fa-2x"></i></a>
+    </div>
+{{</ raw>}}
+
 ## Inline HTML using Raw
 
 {{<raw>}}
@@ -43,4 +54,3 @@ The blockquote element represents content that is quoted from another source, op
 
 > Don't communicate by sharing memory, share memory by communicating.</p>
 > — <cite>Rob Pike[^1]</cite>
-

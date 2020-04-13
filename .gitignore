@@ -3,6 +3,7 @@
 public/
 exampleSite/public/
 
+.vscode
 
 # Compiled source #
 ###################
