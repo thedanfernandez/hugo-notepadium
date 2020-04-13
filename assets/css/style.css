@@ -318,7 +318,7 @@ acronym {
   /* opacity: .5;
   text-decoration: none; */
   opacity: .75;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .tag:hover,
