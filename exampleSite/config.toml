@@ -38,9 +38,9 @@ css = ["css/fonts.css"]
 enable = false  # En/Disable comments globally, default: false. You can always enable comments on per page.
 
 [params.share]
-enable = false  # En/Disable share globally, default: false. You can always enable share on per page.
-addThisId = ""
-inlineToolId = ""
+enable = true  # En/Disable share globally, default: false. You can always enable share on per page.
+addThisId = "ra-5e866ab6c11fc1ef"
+inlineToolId = "gt9k"
 
 [params.math]
 enable = false # load math globally, default: false. You can always enable math on per page.
